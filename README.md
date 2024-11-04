@@ -1,0 +1,1 @@
+- I don't know ASM, if you wanna learn assembly go become a computer engineer or watch Mr. Zozin on YouTube
